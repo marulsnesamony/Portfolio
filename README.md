@@ -1,3 +1,3 @@
 #### Portfolio Content
-1. [Tableau Visualizations](https://public.tableau.com/app/profile/marul.s.nesamony)
-2. [Python Projects - Data Extraction/Transformation/Analysis projects](https://github.com/marulsnesamony/Portfolio/tree/main/Python%20Code)
+1. [Tableau Projects](https://public.tableau.com/app/profile/marul.s.nesamony)
+2. [Data Extraction/Transformation/Analysis Projects](https://github.com/marulsnesamony/Portfolio/tree/main/Python%20Code)
